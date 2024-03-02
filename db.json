@@ -1,0 +1,121 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "position": "Software Developer",
+      "company": "Google",
+      "location": "San Francisco, CA",
+      "status": "Approved",
+      "type": "Full Time",
+      "date": "3/10/2024"
+    },
+    {
+      "id": "2",
+      "position": "Product Manager",
+      "company": "Oracle",
+      "location": "Redwood City, CA",
+      "status": "Pending",
+      "type": "Contract",
+      "date": "1/15/2025"
+    },
+    {
+      "id": "3",
+      "position": "Front End Developer",
+      "company": "Microsoft",
+      "location": "Redmond, WA",
+      "status": "Pending",
+      "type": "Contract",
+      "date": "4/5/2024"
+    },
+    {
+      "id": "4",
+      "position": "Editor",
+      "company": "Amazon",
+      "location": "Seattle, WA",
+      "status": "Declined",
+      "type": "Internship",
+      "date": "5/20/2024"
+    },
+    {
+      "id": "5",
+      "position": "Social Media Manager",
+      "company": "Facebook",
+      "location": "Menlo Park, CA",
+      "status": "Approved",
+      "type": "Remote",
+      "date": "6/1/2024"
+    },
+    {
+      "id": "6",
+      "position": "Video Editor",
+      "company": "Uber",
+      "location": "San Francisco, CA",
+      "status": "Declined",
+      "type": "Part Time",
+      "date": "7/10/2024"
+    },
+    {
+      "id": "7",
+      "position": "Visual Effects Manager",
+      "company": "Netflix",
+      "location": "Los Gatos, CA",
+      "status": "Pending",
+      "type": "Full Time",
+      "date": "8/15/2024"
+    },
+    {
+      "id": "8",
+      "position": "AI Editor",
+      "company": "Twitter",
+      "location": "San Francisco, CA",
+      "status": "Approved",
+      "type": "Contract",
+      "date": "9/1/2024"
+    },
+    {
+      "id": "9",
+      "position": "Data Analyst",
+      "company": "LinkedIn",
+      "location": "Sunnyvale, CA",
+      "status": "Declined",
+      "type": "Remote",
+      "date": "10/10/2024"
+    },
+    {
+      "id": "10",
+      "position": "Backend Developer",
+      "company": "Netflix",
+      "location": "San Francisco, CA",
+      "status": "Pending",
+      "type": "Full Time",
+      "date": "11/5/2024"
+    },
+    {
+      "id": "11",
+      "position": "Full Stack Developer",
+      "company": "Uber",
+      "location": "Santa Clara, CA",
+      "status": "Approved",
+      "type": "Internship",
+      "date": "12/1/2024"
+    },
+    {
+      "id": "366cf634-e971-4862-88ab-48224225f15a",
+      "position": "Cameraman",
+      "company": "The Team",
+      "location": "Istanbul",
+      "status": "Pending",
+      "type": "Full Time",
+      "date": "29/02/2024"
+    },
+    {
+      "id": "a1ffba65-ab28-4347-b072-06b089a16512",
+      "position": "Software Developer",
+      "company": "Microsoft",
+      "location": "Istanbul",
+      "status": "Approved",
+      "type": "Full Time",
+      "date": "02/03/2024"
+    }
+  ]
+}
