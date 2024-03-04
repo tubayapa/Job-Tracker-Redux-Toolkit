@@ -1,6 +1,10 @@
 import { useState } from "react";
 import { sortOptions, statusOptions, typeOptions } from "../constants";
-import { filterBySearch, sortJobs } from "../redux/slices/JobSlice";
+import {
+  clearFilter,
+  filterBySearch,
+  sortJobs,
+} from "../redux/slices/JobSlice";
 import { useDispatch } from "react-redux";
 
 import { useDebounce } from "@uidotdev/usehooks";
@@ -83,7 +87,11 @@ const Filter = () => {
         </div>
 
         <div>
-          <button type="reset" className="submit-btn">
+          <button
+            onClick={() => dispatch(clearFilter())}
+            type="reset"
+            className="submit-btn"
+          >
             Reset
           </button>
         </div>
