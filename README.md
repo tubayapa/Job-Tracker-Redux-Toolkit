@@ -2,7 +2,7 @@
 
 A responsive job tracker application built with React, SASS, and Redux Toolkit. This application allows users to manage their job applications effectively, keeping track of positions, companies, locations, statuses, and types of job applications.
 
-## GIF's
+## GIFs
 
 Filter form
 
